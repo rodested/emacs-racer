@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/racer-rust/emacs-racer.svg?branch=master)](https://travis-ci.org/racer-rust/emacs-racer)
 [![Coverage Status](https://coveralls.io/repos/github/racer-rust/emacs-racer/badge.svg?branch=master)](https://coveralls.io/github/racer-rust/emacs-racer?branch=master)
 
-This is the official Emacs package for
+This is a patch for the official Emacs package for
 [Racer](http://github.com/phildawes/racer).
 
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
